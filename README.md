@@ -9,3 +9,9 @@ import discord from "https://raw.githubusercontent.com/takumi3488/deno-simple-bo
 
 await discord("<Webhook URL>", "some text");
 ```
+
+```sh
+
+WEBHOOK_URL="<Webhook URL>" deno run --allow-all  main.ts
+
+```
